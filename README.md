@@ -91,8 +91,8 @@ I started my developer journey building Java desktop applications, and now I'm t
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham932002&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shubham932002&theme=dark&hide_border=false" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham932002&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham932002&theme=dark&hide_border=false" alt="GitHub Streak" height="170"/>
 </div>
 
 <div align="center">
@@ -133,7 +133,7 @@ I started my developer journey building Java desktop applications, and now I'm t
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=shubham932002&icon=0&color=0" alt="Visit Count"/>
+  <img src="https://komarev.com/ghpvc/?username=shubham932002&color=0e75b6&style=flat" alt="Profile Views"/>
   
   **💼 Open to opportunities and collaborations!**
 </div>
