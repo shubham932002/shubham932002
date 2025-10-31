@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | Transitioning from Java Desktop Apps to Modern Web Development</h3>
 
 <p align="center">
-  <img src="https://i.imgflip.com/65efzo.gif" alt="coding gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFuZXg0dzB2bGZtaWg3OGF4ZHU5NnZtOWNsdmlzajZxNWo2MnZudyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tuCFp8rod0x3O/giphy.gif" alt="coding gif" width="400"/>
 </p>
 
 ---
@@ -92,13 +92,12 @@ I started my developer journey building Java desktop applications, and now I'm t
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubham932002&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham932002&theme=dark&hide_border=false" alt="GitHub Streak" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=shubham932002&theme=dark&hide_border=false" alt="GitHub Streak" height="170"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham932002&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </div>
-
 ---
 
 ## 🏆 GitHub Trophies
