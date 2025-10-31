@@ -126,7 +126,7 @@ I started my developer journey building Java desktop applications, and now I'm t
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shubham932002/shubham932002/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/shubham932002/shubham932002/output/github-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
