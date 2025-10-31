@@ -9,33 +9,68 @@
 
 ## 💫 About Me
 
-🎯 **Currently Working On**  
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Currently Working On
 Building interactive and efficient applications while strengthening my understanding of both frontend and backend development. Recently experimenting with React for UI design and working on backend concepts using .NET Web API.
 
-🤝 **Looking to Collaborate On**  
+</td>
+<td width="50%" valign="top">
+
+### 🤝 Looking to Collaborate On
 - Full-stack development using React and .NET
 - Web applications with clean UI/UX and strong backend logic
 - Open-source contributions where I can learn from experienced developers
 
-🆘 **Seeking Help With**  
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🆘 Seeking Help With
 - Structuring large-scale full-stack projects (React + .NET)
 - Best practices for API design, authentication, and deployment
 - Optimizing React performance and state management (Redux, Context API)
 
-📚 **Currently Learning**  
+</td>
+<td width="50%" valign="top">
+
+### 📚 Currently Learning
 - React.js — components, hooks, routing, and state management
 - .NET Web API — backend architecture and RESTful services
 - Full-stack workflow integration
 - Version control, clean code practices, and project architecture
 
-💬 **Ask Me About**  
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### 💬 Ask Me About
 - My journey from Java desktop apps to modern web development
 - Learning paths for C#, .NET, or React beginners
 - Building and testing personal projects
 
-🎉 **Fun Fact**  
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### 🎉 Fun Fact
 I started my developer journey building Java desktop applications, and now I'm transitioning into full-stack web development — turning my early logic-based projects into real-world, scalable web apps!
 
+</td>
+</tr>
+</table>
+
+</div>
 ---
 
 ## 🌐 Connect With Me
@@ -92,7 +127,7 @@ I started my developer journey building Java desktop applications, and now I'm t
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubham932002&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=shubham932002&theme=dark&hide_border=false" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham932002&theme=github-dark&hide_border=false" alt="GitHub Activity Graph" height="170"/>
 </div>
 
 <div align="center">
